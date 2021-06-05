@@ -1,0 +1,1 @@
+This is just clone coding in v language. I'm still verifying whether v language is really useful, and for the first time, I've only tried running the code once as a test code.
